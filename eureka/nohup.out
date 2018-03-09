@@ -888,3 +888,177 @@ com.netflix.discovery.shared.transport.TransportException: Cannot execute reques
 2018-03-09 00:08:16.539  INFO 3676 --- [a-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 1ms
 2018-03-09 00:09:16.543  INFO 3676 --- [a-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 2ms
 2018-03-09 00:10:16.548  INFO 3676 --- [a-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 3ms
+2018-03-09 00:11:16.552  INFO 3676 --- [a-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 1ms
+2018-03-09 00:12:15.866  INFO 3676 --- [trap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2018-03-09 00:12:16.167  INFO 3676 --- [hresholdUpdater] c.n.e.r.PeerAwareInstanceRegistryImpl    : Current renewal threshold is : 1
+2018-03-09 00:12:16.565  INFO 3676 --- [a-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 0ms
+2018-03-09 00:13:16.574  INFO 3676 --- [a-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 4ms
+2018-03-09 00:14:16.581  INFO 3676 --- [a-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 5ms
+2018-03-09 00:15:16.588  INFO 3676 --- [a-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 4ms
+2018-03-09 01:24:13.213  INFO 3676 --- [a-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 10ms
+2018-03-09 03:23:23.386  INFO 3676 --- [trap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2018-03-09 03:23:24.111  INFO 3676 --- [a-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 2ms
+2018-03-09 10:23:22.147  INFO 3676 --- [a-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 10ms
+2018-03-09 21:01:06.247  INFO 3676 --- [a-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 8ms
+2018-03-09 21:02:06.250  INFO 3676 --- [a-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 5ms
+2018-03-09 21:03:06.253  INFO 3676 --- [a-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 5ms
+2018-03-09 21:04:05.507  INFO 3676 --- [trap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2018-03-09 21:04:06.253  INFO 3676 --- [a-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 2ms
+2018-03-09 21:05:06.253  INFO 3676 --- [a-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 2ms
+2018-03-09 21:06:06.253  INFO 3676 --- [a-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 1ms
+2018-03-09 21:07:06.253  INFO 3676 --- [a-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 2ms
+2018-03-09 21:08:06.254  INFO 3676 --- [a-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 2ms
+2018-03-09 21:09:05.501  INFO 3676 --- [trap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2018-03-09 21:09:05.789  INFO 3676 --- [hresholdUpdater] c.n.e.r.PeerAwareInstanceRegistryImpl    : Current renewal threshold is : 1
+2018-03-09 21:09:06.260  INFO 3676 --- [a-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 8ms
+2018-03-09 21:10:06.268  INFO 3676 --- [a-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 10ms
+2018-03-09 21:11:06.273  INFO 3676 --- [a-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 6ms
+2018-03-09 21:12:06.281  INFO 3676 --- [a-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 10ms
+2018-03-09 21:42:59.433  INFO 3676 --- [a-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 6ms
+2018-03-09 22:16:33.407  INFO 3676 --- [trap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2018-03-09 22:16:34.202  INFO 3676 --- [a-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 7ms
+2018-03-09 22:38:27.965  INFO 3676 --- [a-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 0ms
+2018-03-09 22:47:20.296  INFO 3676 --- [a-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 9ms
+2018-03-09 22:48:20.297  INFO 3676 --- [a-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 1ms
+2018-03-09 22:49:20.300  INFO 3676 --- [a-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 4ms
+2018-03-09 22:50:19.494  INFO 3676 --- [trap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2018-03-09 22:50:20.303  INFO 3676 --- [a-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 4ms
+2018-03-09 22:51:20.303  INFO 3676 --- [a-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 1ms
+2018-03-09 22:52:20.306  INFO 3676 --- [a-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 5ms
+2018-03-09 22:53:20.307  INFO 3676 --- [a-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 2ms
+2018-03-09 22:54:20.308  INFO 3676 --- [a-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 2ms
+2018-03-09 22:55:19.489  INFO 3676 --- [trap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2018-03-09 22:55:19.767  INFO 3676 --- [hresholdUpdater] c.n.e.r.PeerAwareInstanceRegistryImpl    : Current renewal threshold is : 1
+2018-03-09 22:55:20.308  INFO 3676 --- [a-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 1ms
+2018-03-09 22:56:20.310  INFO 3676 --- [a-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 4ms
+2018-03-09 22:57:20.312  INFO 3676 --- [a-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 3ms
+2018-03-09 22:58:20.314  INFO 3676 --- [a-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 2ms
+2018-03-09 22:59:20.315  INFO 3676 --- [a-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 3ms
+2018-03-09 23:00:19.485  INFO 3676 --- [trap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2018-03-09 23:00:20.316  INFO 3676 --- [a-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 2ms
+2018-03-09 23:01:20.316  INFO 3676 --- [a-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 1ms
+2018-03-09 23:01:46.931  INFO 3676 --- [nio-8761-exec-5] c.n.e.registry.AbstractInstanceRegistry  : Registered instance ORDER/192.168.0.104:order with status UP (replication=false)
+2018-03-09 23:01:47.446  INFO 3676 --- [nio-8761-exec-6] c.n.e.registry.AbstractInstanceRegistry  : Registered instance ORDER/192.168.0.104:order with status UP (replication=true)
+2018-03-09 23:02:20.316  INFO 3676 --- [a-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 1ms
+2018-03-09 23:03:20.318  INFO 3676 --- [a-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 2ms
+2018-03-09 23:04:20.320  INFO 3676 --- [a-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 3ms
+2018-03-09 23:05:19.481  INFO 3676 --- [trap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2018-03-09 23:05:20.321  INFO 3676 --- [a-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 2ms
+2018-03-09 23:06:20.334  INFO 3676 --- [a-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 2ms
+2018-03-09 23:07:20.338  INFO 3676 --- [a-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 5ms
+2018-03-09 23:08:20.340  INFO 3676 --- [a-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 3ms
+2018-03-09 23:09:20.341  INFO 3676 --- [a-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 1ms
+2018-03-09 23:10:19.490  INFO 3676 --- [trap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2018-03-09 23:10:19.770  INFO 3676 --- [hresholdUpdater] c.n.e.r.PeerAwareInstanceRegistryImpl    : Current renewal threshold is : 3
+2018-03-09 23:10:20.341  INFO 3676 --- [a-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 1ms
+2018-03-09 23:11:20.346  INFO 3676 --- [a-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 6ms
+2018-03-09 23:12:20.347  INFO 3676 --- [a-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 2ms
+2018-03-09 23:13:20.349  INFO 3676 --- [a-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 2ms
+2018-03-09 23:14:20.353  INFO 3676 --- [a-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 5ms
+2018-03-09 23:15:19.490  INFO 3676 --- [trap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2018-03-09 23:15:20.358  INFO 3676 --- [a-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 6ms
+2018-03-09 23:16:20.362  INFO 3676 --- [a-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 4ms
+2018-03-09 23:17:20.366  INFO 3676 --- [a-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 5ms
+2018-03-09 23:18:20.369  INFO 3676 --- [a-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 4ms
+2018-03-09 23:19:20.372  INFO 3676 --- [a-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 4ms
+2018-03-09 23:20:19.597  INFO 3676 --- [trap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2018-03-09 23:20:20.482  INFO 3676 --- [a-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 3ms
+2018-03-09 23:21:20.485  INFO 3676 --- [a-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 1ms
+2018-03-09 23:22:20.490  INFO 3676 --- [a-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 3ms
+2018-03-09 23:23:20.496  INFO 3676 --- [a-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 3ms
+2018-03-09 23:23:37.190  WARN 3676 --- [nio-8761-exec-1] c.n.e.registry.AbstractInstanceRegistry  : DS: Registry: cancel failed because Lease is not registered for: ORDER/192.168.0.104:order:-1
+2018-03-09 23:23:37.191  INFO 3676 --- [nio-8761-exec-1] c.n.eureka.resources.InstanceResource    : Not Found (Cancel): ORDER - 192.168.0.104:order:-1
+2018-03-09 23:24:08.885  INFO 3676 --- [nio-8761-exec-9] c.n.e.registry.AbstractInstanceRegistry  : Registered instance ORDER/192.168.0.104:order with status DOWN (replication=false)
+2018-03-09 23:24:08.904  INFO 3676 --- [io-8761-exec-10] c.n.e.registry.AbstractInstanceRegistry  : Cancelled instance ORDER/192.168.0.104:order (replication=false)
+2018-03-09 23:24:09.397  INFO 3676 --- [nio-8761-exec-3] c.n.e.registry.AbstractInstanceRegistry  : Registered instance ORDER/192.168.0.104:order with status DOWN (replication=true)
+2018-03-09 23:24:09.397  INFO 3676 --- [nio-8761-exec-3] c.n.e.registry.AbstractInstanceRegistry  : Cancelled instance ORDER/192.168.0.104:order (replication=true)
+2018-03-09 23:24:20.500  INFO 3676 --- [a-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 2ms
+2018-03-09 23:24:34.156  WARN 3676 --- [nio-8761-exec-6] c.n.e.registry.AbstractInstanceRegistry  : DS: Registry: cancel failed because Lease is not registered for: ORDER/192.168.0.104:order:-1
+2018-03-09 23:24:34.157  INFO 3676 --- [nio-8761-exec-6] c.n.eureka.resources.InstanceResource    : Not Found (Cancel): ORDER - 192.168.0.104:order:-1
+2018-03-09 23:25:19.611  INFO 3676 --- [trap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2018-03-09 23:25:19.877  INFO 3676 --- [hresholdUpdater] c.n.e.r.PeerAwareInstanceRegistryImpl    : Current renewal threshold is : 1
+2018-03-09 23:25:20.505  INFO 3676 --- [a-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 2ms
+2018-03-09 23:26:20.507  INFO 3676 --- [a-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 0ms
+2018-03-09 23:27:20.513  INFO 3676 --- [a-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 3ms
+2018-03-09 23:28:20.517  INFO 3676 --- [a-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 2ms
+2018-03-09 23:29:20.523  INFO 3676 --- [a-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 3ms
+2018-03-09 23:30:19.624  INFO 3676 --- [trap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2018-03-09 23:30:20.528  INFO 3676 --- [a-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 3ms
+2018-03-09 23:31:07.165  WARN 3676 --- [nio-8761-exec-6] c.n.e.registry.AbstractInstanceRegistry  : DS: Registry: cancel failed because Lease is not registered for: ORDER/192.168.0.104:order:-1
+2018-03-09 23:31:07.168  INFO 3676 --- [nio-8761-exec-6] c.n.eureka.resources.InstanceResource    : Not Found (Cancel): ORDER - 192.168.0.104:order:-1
+2018-03-09 23:31:20.535  INFO 3676 --- [a-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 5ms
+2018-03-09 23:32:20.541  INFO 3676 --- [a-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 3ms
+2018-03-09 23:33:20.547  INFO 3676 --- [a-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 4ms
+2018-03-09 23:34:20.551  INFO 3676 --- [a-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 2ms
+2018-03-09 23:35:19.636  INFO 3676 --- [trap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2018-03-09 23:35:20.554  INFO 3676 --- [a-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 1ms
+2018-03-09 23:36:20.556  INFO 3676 --- [a-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 0ms
+2018-03-09 23:37:20.561  INFO 3676 --- [a-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 2ms
+2018-03-09 23:38:20.566  INFO 3676 --- [a-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 3ms
+2018-03-09 23:39:20.569  INFO 3676 --- [a-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 1ms
+2018-03-09 23:40:19.671  INFO 3676 --- [trap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2018-03-09 23:40:19.929  INFO 3676 --- [hresholdUpdater] c.n.e.r.PeerAwareInstanceRegistryImpl    : Current renewal threshold is : 1
+2018-03-09 23:40:20.600  INFO 3676 --- [a-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 4ms
+2018-03-09 23:41:20.605  INFO 3676 --- [a-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 1ms
+2018-03-09 23:42:20.612  INFO 3676 --- [a-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 4ms
+2018-03-09 23:43:20.617  INFO 3676 --- [a-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 3ms
+2018-03-09 23:44:20.620  INFO 3676 --- [a-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 0ms
+2018-03-09 23:45:19.683  INFO 3676 --- [trap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2018-03-09 23:45:20.623  INFO 3676 --- [a-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 1ms
+2018-03-09 23:46:20.629  INFO 3676 --- [a-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 4ms
+2018-03-09 23:47:20.633  INFO 3676 --- [a-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 1ms
+2018-03-09 23:48:20.641  INFO 3676 --- [a-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 6ms
+2018-03-09 23:49:20.648  INFO 3676 --- [a-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 4ms
+2018-03-09 23:50:19.693  INFO 3676 --- [trap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2018-03-09 23:50:20.654  INFO 3676 --- [a-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 4ms
+2018-03-09 23:51:20.657  INFO 3676 --- [a-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 1ms
+2018-03-09 23:52:20.661  INFO 3676 --- [a-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 2ms
+2018-03-09 23:53:20.665  INFO 3676 --- [a-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 2ms
+2018-03-09 23:54:20.671  INFO 3676 --- [a-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 3ms
+2018-03-09 23:55:19.704  INFO 3676 --- [trap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2018-03-09 23:55:19.958  INFO 3676 --- [hresholdUpdater] c.n.e.r.PeerAwareInstanceRegistryImpl    : Current renewal threshold is : 1
+2018-03-09 23:55:20.674  INFO 3676 --- [a-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 1ms
+2018-03-09 23:56:20.681  INFO 3676 --- [a-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 4ms
+2018-03-09 23:57:20.696  INFO 3676 --- [a-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 4ms
+2018-03-09 23:58:20.702  INFO 3676 --- [a-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 4ms
+2018-03-09 23:59:20.706  INFO 3676 --- [a-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 2ms
+2018-03-10 00:00:19.727  INFO 3676 --- [trap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2018-03-10 00:00:20.712  INFO 3676 --- [a-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 3ms
+2018-03-10 00:01:20.715  INFO 3676 --- [a-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 0ms
+2018-03-10 00:02:20.720  INFO 3676 --- [a-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 3ms
+2018-03-10 00:03:20.726  INFO 3676 --- [a-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 3ms
+2018-03-10 00:04:20.732  INFO 3676 --- [a-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 4ms
+2018-03-10 00:05:19.740  INFO 3676 --- [trap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2018-03-10 00:05:20.735  INFO 3676 --- [a-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 0ms
+2018-03-10 00:06:20.739  INFO 3676 --- [a-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 2ms
+2018-03-10 00:07:20.742  INFO 3676 --- [a-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 0ms
+2018-03-10 00:08:20.748  INFO 3676 --- [a-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 4ms
+2018-03-10 00:09:20.751  INFO 3676 --- [a-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 1ms
+2018-03-10 00:10:19.754  INFO 3676 --- [trap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2018-03-10 00:10:20.000  INFO 3676 --- [hresholdUpdater] c.n.e.r.PeerAwareInstanceRegistryImpl    : Current renewal threshold is : 1
+2018-03-10 00:10:20.755  INFO 3676 --- [a-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 2ms
+2018-03-10 00:11:20.757  INFO 3676 --- [a-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 0ms
+2018-03-10 00:12:20.763  INFO 3676 --- [a-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 3ms
+2018-03-10 00:13:20.768  INFO 3676 --- [a-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 2ms
+2018-03-10 00:14:20.772  INFO 3676 --- [a-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 1ms
+2018-03-10 00:14:34.919  INFO 3676 --- [nio-8761-exec-2] c.n.e.registry.AbstractInstanceRegistry  : Registered instance ORDER/192.168.0.104:order with status UP (replication=false)
+2018-03-10 00:14:35.431  INFO 3676 --- [nio-8761-exec-4] c.n.e.registry.AbstractInstanceRegistry  : Registered instance ORDER/192.168.0.104:order with status UP (replication=true)
+2018-03-10 00:15:19.769  INFO 3676 --- [trap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2018-03-10 00:15:20.776  INFO 3676 --- [a-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 3ms
+2018-03-10 00:16:20.801  INFO 3676 --- [a-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 2ms
+2018-03-10 00:17:20.808  INFO 3676 --- [a-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 1ms
+2018-03-10 00:17:37.710  INFO 3676 --- [nio-8761-exec-3] c.n.e.registry.AbstractInstanceRegistry  : Registered instance ORDER/192.168.0.104:order with status DOWN (replication=false)
+2018-03-10 00:17:37.722  INFO 3676 --- [nio-8761-exec-4] c.n.e.registry.AbstractInstanceRegistry  : Cancelled instance ORDER/192.168.0.104:order (replication=false)
+2018-03-10 00:17:38.233  WARN 3676 --- [nio-8761-exec-6] c.n.e.registry.AbstractInstanceRegistry  : DS: Registry: cancel failed because Lease is not registered for: ORDER/192.168.0.104:order
+2018-03-10 00:17:38.233  INFO 3676 --- [nio-8761-exec-6] c.n.eureka.resources.InstanceResource    : Not Found (Cancel): ORDER - 192.168.0.104:order
+2018-03-10 00:17:38.234  INFO 3676 --- [nio-8761-exec-6] c.n.e.registry.AbstractInstanceRegistry  : Registered instance ORDER/192.168.0.104:order with status DOWN (replication=true)
+2018-03-10 00:17:38.236  WARN 3676 --- [get_localhost-1] c.n.eureka.cluster.ReplicationTask       : The replication of task ORDER/192.168.0.104:order:Cancel@localhost failed with response code 404
+2018-03-10 00:17:38.236  WARN 3676 --- [get_localhost-1] c.netflix.eureka.cluster.PeerEurekaNode  : ORDER/192.168.0.104:order:Cancel@localhost: missing entry.
+2018-03-10 00:17:50.060  INFO 3676 --- [nio-8761-exec-8] c.n.e.registry.AbstractInstanceRegistry  : Registered instance ORDER/192.168.0.104:order with status UP (replication=false)
+2018-03-10 00:17:50.572  INFO 3676 --- [nio-8761-exec-9] c.n.e.registry.AbstractInstanceRegistry  : Registered instance ORDER/192.168.0.104:order with status UP (replication=true)
+2018-03-10 00:18:20.811  INFO 3676 --- [a-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 1ms
+2018-03-10 00:19:17.167  INFO 3676 --- [nio-8761-exec-5] c.n.e.registry.AbstractInstanceRegistry  : Registered instance ORDER/192.168.0.104:order with status DOWN (replication=false)
+2018-03-10 00:19:17.172  INFO 3676 --- [nio-8761-exec-6] c.n.e.registry.AbstractInstanceRegistry  : Cancelled instance ORDER/192.168.0.104:order (replication=false)
+2018-03-10 00:19:17.678  INFO 3676 --- [nio-8761-exec-9] c.n.e.registry.AbstractInstanceRegistry  : Registered instance ORDER/192.168.0.104:order with status DOWN (replication=true)
+2018-03-10 00:19:17.678  INFO 3676 --- [nio-8761-exec-9] c.n.e.registry.AbstractInstanceRegistry  : Cancelled instance ORDER/192.168.0.104:order (replication=true)
+2018-03-10 00:19:20.814  INFO 3676 --- [a-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 1ms
