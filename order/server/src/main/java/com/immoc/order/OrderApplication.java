@@ -1,4 +1,4 @@
-package com.immoc.product;
+package com.immoc.order;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -10,9 +10,10 @@ import org.springframework.cloud.openfeign.EnableFeignClients;
  */
 @SpringBootApplication
 @EnableDiscoveryClient
-public class ProductApplication {
+@EnableFeignClients(basePackages = "com.immoc.product.client")
+public class OrderApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(ProductApplication.class, args);
-	}
+    public static void main(String[] args) {
+        SpringApplication.run(OrderApplication.class, args);
+    }
 }

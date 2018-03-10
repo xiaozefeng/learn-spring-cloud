@@ -1,4 +1,4 @@
-package com.immoc.product.vo;
+package com.immoc.order.vo;
 
 import lombok.Data;
 

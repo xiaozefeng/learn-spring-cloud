@@ -1,13 +1,13 @@
 package com.immoc.product.controller;
 
-import com.immoc.product.VO.ProductInfoVO;
-import com.immoc.product.VO.ProductVO;
+import com.immoc.product.vo.ProductInfoVO;
+import com.immoc.product.vo.ProductVO;
 import com.immoc.product.dto.CartDTO;
 import com.immoc.product.entity.ProductCategory;
 import com.immoc.product.entity.ProductInfo;
 import com.immoc.product.service.CategoryService;
 import com.immoc.product.service.ProductService;
-import com.immoc.product.VO.ResultVO;
+import com.immoc.product.vo.ResultVO;
 import org.springframework.beans.BeanUtils;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
