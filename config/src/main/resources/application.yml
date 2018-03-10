@@ -13,9 +13,9 @@ eureka:
     service-url:
       defaultZone: http://127.0.0.1:8761/eureka/
 management:
-  endpoint:
-    bus-refresh:
-      enabled: true
+#  endpoint:
+#    bus-refresh:
+#      enabled: true
   # 相对之前的版本，这里要暴露所有的断点
   endpoints:
     web:
