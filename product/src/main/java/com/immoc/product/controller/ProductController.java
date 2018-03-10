@@ -1,5 +1,6 @@
 package com.immoc.product.controller;
 
+import com.immoc.product.dto.CartDTO;
 import com.immoc.product.VO.ProductInfoVO;
 import com.immoc.product.VO.ProductVO;
 import com.immoc.product.VO.ResultVO;
@@ -9,9 +10,7 @@ import com.immoc.product.service.CategoryService;
 import com.immoc.product.service.ProductService;
 import org.springframework.beans.BeanUtils;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.web.bind.annotation.GetMapping;
-import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.RestController;
+import org.springframework.web.bind.annotation.*;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -61,5 +60,26 @@ public class ProductController {
             productVOList.add(productVO);
         });
         return ResultVO.ok(productVOList);
+    }
+
+
+    /**
+     * 订单列表 ("给订单服务调用的)
+     *
+     * @param productIdList
+     * @return
+     */
+    @PostMapping("/listForOrder")
+    public List<ProductInfo> listForOrder(@RequestBody List<String> productIdList) {
+        return productService.findList(productIdList);
+    }
+
+    /**
+     * 扣减库存
+     * @param cartDTOList
+     */
+    @PostMapping("decreaseStock")
+    public void decreaseStock(@RequestBody List<CartDTO> cartDTOList) {
+        productService.decreaseStock(cartDTOList);
     }
 }

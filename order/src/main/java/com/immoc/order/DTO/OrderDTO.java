@@ -1,11 +1,9 @@
-package com.immoc.order.DTO;
+package com.immoc.order.dto;
 
 import com.immoc.order.entity.OrderDetail;
 import lombok.Data;
 
-import javax.persistence.Id;
 import java.math.BigDecimal;
-import java.util.ArrayList;
 import java.util.List;
 
 /**

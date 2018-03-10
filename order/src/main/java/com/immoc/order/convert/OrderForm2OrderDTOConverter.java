@@ -3,14 +3,12 @@ package com.immoc.order.convert;
 import com.google.gson.Gson;
 import com.google.gson.JsonSyntaxException;
 import com.google.gson.reflect.TypeToken;
-import com.immoc.order.DTO.OrderDTO;
+import com.immoc.order.dto.OrderDTO;
 import com.immoc.order.entity.OrderDetail;
 import com.immoc.order.enums.ResultEnum;
 import com.immoc.order.exception.OrderException;
 import com.immoc.order.form.OrderForm;
 import lombok.extern.slf4j.Slf4j;
-import org.springframework.boot.autoconfigure.gson.GsonAutoConfiguration;
-import rx.internal.util.atomic.SpscAtomicArrayQueue;
 
 import java.util.ArrayList;
 import java.util.List;

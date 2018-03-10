@@ -1,8 +1,6 @@
 package com.immoc.order.service;
 
-import com.immoc.order.DTO.OrderDTO;
-import com.immoc.order.entity.OrderDetail;
-import com.immoc.order.entity.OrderMaster;
+import com.immoc.order.dto.OrderDTO;
 
 /**
  * @author xiaozefeng

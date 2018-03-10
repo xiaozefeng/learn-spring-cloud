@@ -1,6 +1,6 @@
 package com.immoc.order.controller;
 
-import com.immoc.order.DTO.OrderDTO;
+import com.immoc.order.dto.OrderDTO;
 import com.immoc.order.VO.ResultVO;
 import com.immoc.order.convert.OrderForm2OrderDTOConverter;
 import com.immoc.order.enums.ResultEnum;
