@@ -1,8 +1,8 @@
 package com.immoc.product.service.impl;
 
+import com.immoc.product.service.CategoryService;
 import com.immoc.product.entity.ProductCategory;
 import com.immoc.product.repository.ProductCategoryRepository;
-import com.immoc.product.service.CategoryService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

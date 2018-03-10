@@ -1,7 +1,6 @@
 package com.immoc.product.repository;
 
 import com.immoc.product.entity.ProductCategory;
-import com.immoc.product.entity.ProductInfo;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.List;

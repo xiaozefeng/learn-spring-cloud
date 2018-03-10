@@ -6,7 +6,12 @@
 	<groupId>com.immoc</groupId>
 	<artifactId>product</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>jar</packaging>
+    <modules>
+        <module>product-server</module>
+        <module>product-client</module>
+        <module>product-common</module>
+    </modules>
+    <packaging>pom</packaging>
 
 	<name>product</name>
 	<description>Demo project for Spring Boot</description>
