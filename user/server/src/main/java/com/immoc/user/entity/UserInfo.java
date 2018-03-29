@@ -1,8 +1,11 @@
 package com.immoc.user.entity;
 
+import com.immoc.user.enums.UserRoleEnum;
 import lombok.Data;
 
 import javax.persistence.Entity;
+import javax.persistence.EnumType;
+import javax.persistence.Enumerated;
 import javax.persistence.Id;
 
 /**
@@ -20,6 +23,7 @@ public class UserInfo {
 
     private String openid;
 
-    private Integer role;
+    @Enumerated(EnumType.STRING)
+    private UserRoleEnum role;
 
 }
