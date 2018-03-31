@@ -7,6 +7,11 @@ spring:
         enabled: true
         service-id: CONFIG
       profile: dev
+  zipkin:
+    base-url: http://localhost:9411/
+  sleuth:
+    sampler:
+      probability: 1
 eureka:
   client:
     service-url:
@@ -15,3 +20,8 @@ eureka:
 feign:
   hystrix:
     enabled: true
+
+# 将制定包下的日志级别改为debug
+logging:
+  level:
+    org.springframework.cloud.openfeign: debug

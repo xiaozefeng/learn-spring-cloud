@@ -11,3 +11,8 @@ eureka:
   client:
     service-url:
       defaultZone: http://127.0.0.1:8761/eureka/
+
+# 将制定包下的日志级别改为debug
+logging:
+  level:
+    org.springframework.cloud.openfeign: debug
