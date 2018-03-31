@@ -4,6 +4,7 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.cloud.client.SpringCloudApplication;
 import org.springframework.cloud.openfeign.EnableFeignClients;
 import org.springframework.context.annotation.Bean;
+import org.springframework.context.annotation.ComponentScan;
 import org.springframework.web.client.RestTemplate;
 
 /**
@@ -14,6 +15,8 @@ import org.springframework.web.client.RestTemplate;
 //@EnableCircuitBreaker
 @EnableFeignClients(basePackages = "com.immoc.product.client")
 @SpringCloudApplication
+// 扫描 product client
+@ComponentScan(basePackages = {"com.immoc.order", "com.immoc.product.client"})
 public class OrderApplication {
 
     @Bean
